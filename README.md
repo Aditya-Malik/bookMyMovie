@@ -1,7 +1,7 @@
 # bookMyMovie
 
 Instructions to follow: In the connect command, look for the attribute name "passwd".
-                        Against it, after the equal to (=) sign, enter you personal password fro mySQL client on our system.
+                        Against it, after the equal to (=) sign, enter you personal password for mySQL client on our system in between the double inverted commas.
 
 Repeat the above Instruction for the lines in the files mentioned below.
 In the db.py file :
